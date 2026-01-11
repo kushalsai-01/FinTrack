@@ -357,19 +357,4 @@ Interactive docs available at:
 - Investment tracking
 - Tax reporting
 
-## 📄 License
 
-This is a production-grade example project. Use as a reference for building real-world applications.
-
-## 👥 Contributing
-
-This is a complete, production-ready system. All features are implemented with:
-- ✅ No TODOs
-- ✅ No hardcoded values
-- ✅ Clean, scalable code
-- ✅ Interview-ready architecture
-- ✅ Full explainability for AI decisions
-
----
-
-**Built with ❤️ for production-grade personal finance intelligence**
